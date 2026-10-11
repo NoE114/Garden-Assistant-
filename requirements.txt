@@ -1,0 +1,3 @@
+# llama-cpp-python has no cp314 wheels (Python 3.14); this installs from source.
+# Needs gcc + cmake. Verified building on 0.3.36 / Python 3.14.7.
+llama-cpp-python==0.3.36
